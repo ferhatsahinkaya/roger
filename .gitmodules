@@ -1,0 +1,12 @@
+[submodule "roger-operator"]
+	path = roger-operator
+	url = https://github.com/ferhatsahinkaya/roger-operator.git
+[submodule "roger-service"]
+	path = roger-service
+	url = https://github.com/ferhatsahinkaya/roger-service.git
+[submodule "roger-gateway"]
+	path = roger-gateway
+	url = https://github.com/ferhatsahinkaya/roger-gateway.git
+[submodule "roger-dq-details"]
+	path = roger-dq-details
+	url = https://github.com/ferhatsahinkaya/roger-dq-details.git
